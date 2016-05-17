@@ -1,124 +1,64 @@
 {
-  "wallpaper": [
-                    {
+  "wallpapers": [
+    {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/RhJjXHr.jpg",
-                        "thumbUrl": "http://i.imgur.com/RhJjXHrm.jpg",
-                        "name": "wall1"
+                        "url": "http://i.imgur.com/WQCcC9M.jpg",
+                        "thumbUrl": "http://i.imgur.com/WQCcC9Mm.jpg",
+                        "name": "Green Mist"
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/pOnGUm3.jpg",
-                        "thumbUrl": "http://i.imgur.com/pOnGUm3m.jpg",
-                        "name": "wall2"
+                        "url": "http://i.imgur.com/Yc2kfUv.jpg",
+                        "thumbUrl": "http://i.imgur.com/Yc2kfUvm.jpg",
+                        "name": "Black Sand"
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/6W6Az7T.jpg",
-                        "thumbUrl": "http://i.imgur.com/6W6Az7Tm.jpg",
-                        "name": "wall3"
+                        "url": "http://i.imgur.com/PtxbkWb.jpg",
+                        "thumbUrl": "http://i.imgur.com/PtxbkWbm.jpg",
+                        "name": "Grand Sand"
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/HGbDvRn.png",
-                        "thumbUrl": "http://i.imgur.com/HGbDvRnm.png",
-                        "name": "wall4"
+                        "url": "http://i.imgur.com/ACHANpY.jpg",
+                        "thumbUrl": "http://i.imgur.com/ACHANpYm.jpg",
+                        "name": "Valley"
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/qqmoOeS.jpg",
-                        "thumbUrl": "http://i.imgur.com/qqmoOeSm.jpg",
-                        "name": "wall5"
+                        "url": "http://i.imgur.com/Mi3fpJr.jpg",
+                        "thumbUrl": "http://i.imgur.com/Mi3fpJrm.jpg",
+                        "name": "Wheat Haze"
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/9e3ECWs.jpg",
-                        "thumbUrl": "http://i.imgur.com/9e3ECWsm.jpg",
-                        "name": "wall6"                    
+                        "url": "http://i.imgur.com/QnyhUny.jpg",
+                        "thumbUrl": "http://i.imgur.com/QnyhUnym.jpg",
+                        "name": "Grey Sand"                    
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/TpDfin3.jpg",
-                        "thumbUrl": "http://i.imgur.com/TpDfin3m.jpg",
-                        "name": "wall7"                    
+                        "url": "http://i.imgur.com/ah7yMOD.png",
+                        "thumbUrl": "http://i.imgur.com/ah7yMODm.png",
+                        "name": "Green Oil"                    
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/kdJn2Cy.png",
-                        "thumbUrl": "http://i.imgur.com/kdJn2Cym.png",
-                        "name": "wall8"                    
+                        "url": "http://i.imgur.com/5KSGGv4.jpg",
+                        "thumbUrl": "http://i.imgur.com/5KSGGv4m.jpg",
+                        "name": "Natural Blur"                    
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/FwUQFDE.jpg",
-                        "thumbUrl": "http://i.imgur.com/FwUQFDEm.jpg",
-                        "name": "wall9"                    
+                        "url": "http://i.imgur.com/R5lU3A8.jpg",
+                        "thumbUrl": "http://i.imgur.com/R5lU3A8m.jpg",
+                        "name": "Gaussian"                    
                     },
                     {
                         "author": "vanessaem",
-                        "url": "http://i.imgur.com/kiNbdcF.jpg",
-                        "thumbUrl": "http://i.imgur.com/kiNbdcFm.jpg",
-                        "name": "wall10"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/I0qoHTZ.jpg",
-                        "thumbUrl": "http://i.imgur.com/I0qoHTZm.jpg",
-                        "name": "wall11"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/2Cp2Y2X.jpg",
-                        "thumbUrl": "http://i.imgur.com/2Cp2Y2Xm.jpg",
-                        "name": "wall12"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/ACgy2vV.png",
-                        "thumbUrl": "http://i.imgur.com/ACgy2vVm.png",
-                        "name": "wall13"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/E64D5sh.jpg",
-                        "thumbUrl": "http://i.imgur.com/E64D5shm.jpg",
-                        "name": "wall14"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/3PFPSw2.jpg",
-                        "thumbUrl": "http://i.imgur.com/3PFPSw2m.jpg",
-                        "name": "wall15"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/qYNvpj9.jpg",
-                        "thumbUrl": "http://i.imgur.com/qYNvpj9m.jpg",
-                        "name": "wall16"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/aIduRDE.jpg",
-                        "thumbUrl": "http://i.imgur.com/aIduRDEm.jpg",
-                        "name": "wall17"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/coUQq8l.jpg",
-                        "thumbUrl": "http://i.imgur.com/coUQq8lm.jpg",
-                        "name": "wall18"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/oy5dnhG.jpg",
-                        "thumbUrl": "http://i.imgur.com/oy5dnhGm.jpg",
-                        "name": "wall19"                    
-                    },
-                    {
-                        "author": "vanessaem",
-                        "url": "http://i.imgur.com/X698U92.jpg",
-                        "thumbUrl": "http://i.imgur.com/X698U92m.jpg",
-                        "name": "wall20"                                        
+                        "url": "http://i.imgur.com/JuSVpDn.jpg",
+                        "thumbUrl": "http://i.imgur.com/JuSVpDnm.jpg",
+                        "name": "Blues"                    
     }
   ]
 }
